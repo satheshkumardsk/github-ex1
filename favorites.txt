@@ -1,3 +1,6 @@
 dosa
 sambar
 rice
+thor
+maari
+sp
